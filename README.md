@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-#### I'm a Javascript Developer working in Belgium.
+#### I'm a Javascript Developer working from Belgium.
 
 - 🏢 I'm currently working at **Ocular BVBA**
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.vue`, `.xd`
