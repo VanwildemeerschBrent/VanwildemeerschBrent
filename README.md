@@ -3,7 +3,7 @@
 
 #### I'm a Javascript Developer working from Belgium.
 
-- 🏢 I'm currently working at **Ocular BVBA**
+- 🏢 I'm currently working at ****
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.scss`, `.vue`, `.xd`
 - 🌍 I'm mostly active within the **VueJS Community**
 - 🌱 Learning all about **Open Source**
