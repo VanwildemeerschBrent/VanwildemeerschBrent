@@ -3,7 +3,7 @@
 
 #### I'm a Javascript Developer working from Belgium.
 
-- 🏢 I'm currently working at ****
+- 🏢 I'm currently working at Positive Thinking Company
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.scss`, `.vue`, `.xd`
 - 🌍 I'm mostly active within the **VueJS Community**
 - 🌱 Learning all about **Open Source**
