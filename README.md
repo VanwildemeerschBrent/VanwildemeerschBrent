@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-#### I'm a Javascript Full-Stack Developer working from Belgium.
+#### I'm a Javascript Developer working from Belgium.
 
 - 🏢 I'm currently working at Positive Thinking Company
 - ⚙️ I use daily: `.js`, `.ts`, `.tsx`, `.html`, `.css`, `.scss`, `.vue`, `.xd`
