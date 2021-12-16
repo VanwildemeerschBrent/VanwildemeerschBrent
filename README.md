@@ -6,6 +6,6 @@
 - 🏢 I'm currently working at Positive Thinking Company
 - ⚙️ I use daily: `.js`, `.ts`, `.tsx`, `.html`, `.css`, `.scss`, `.vue`, `.xd`
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **VueJS**, **ReactJS**, **Angular**, **Ionic**, **javascript**, **web-applications**, **development**, **software architecture**
+- 💬 Ping me about **VueJS**, **ReactJS**, **Angular**, **Ionic**, **Svelte**, **javascript**, **web-applications**, **development**, **software architecture**
 - 📫 Reach me: [https://twitter.com/BrentVanwildem](https://twitter.com/BrentVanwildem)
 - ⚡️ Fun fact: I'm a huge personal development fan
